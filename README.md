@@ -1,6 +1,8 @@
 # usando-copilot-na-pratica
 ## Sobre
 
+teste pagina
+
 Este repositório contém código de teste do GitHub Copilot no Visual Studio Code.
 
 ## Objetivo
